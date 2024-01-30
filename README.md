@@ -13,5 +13,6 @@ Para el correcto funcionamiento se necesita tener instalado PostgreSQL, ya que e
 - Lista ciertos profesionales a partir de su especialización.
 - Muestra el encargado de cada proyecto.
 - Muestra las calificaciones de los proyectos. 
+
 Para la ejecución del programa, se debe ubicar en el paquete **_PrincipalGUI_** y luego ubicarse en la clase **PlantillaGUI**.
 
